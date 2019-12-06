@@ -44,3 +44,5 @@ iOS 程序在导出包的时候可选择的发布方式有四种：
  * 重新生成的ipa包，可通过xcode直接装到手机上；
  
  ![deviceAppList](https://raw.githubusercontent.com/wangyingbo/PrivateImages/master/2019/deviceAppList.vkrklu6alac.png)
+ 
+* 也可以通过fir或者蒲公英等第三方发布；
